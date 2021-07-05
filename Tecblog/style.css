@@ -1,4 +1,4 @@
-@charset "UFT-08";
+@charset "UFT-8";
 * {
     margin: 0;
     padding: 0;
@@ -41,6 +41,7 @@ main {
     background-color: white;
     width: 920px;
     margin: 0 auto;
+    padding: 15px;
 }
 #area-postagens, #area-lateral {
     background-color: orange;
