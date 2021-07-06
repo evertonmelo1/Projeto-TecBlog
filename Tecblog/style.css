@@ -46,6 +46,11 @@ h1 {
 h2 {
     color: #f7b600;
 }
+h3 {
+    color: #565656;
+    background: #ccc;
+    padding: 5px;
+}
 .branco {
     color: white;
 }
