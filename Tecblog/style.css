@@ -62,12 +62,11 @@ main {
     margin: 0 auto;
     padding: 15px;
 }
-#area-lateral {
-    background-color: orange;
-}
+
 #area-postagens {
     width: 660px;
     float: left;
+    
 }
 #area-lateral {
     width: 240px;
@@ -77,6 +76,11 @@ article {
     padding: 20px;
     margin-bottom: 20px;
     background-color: white;
+}
+.conteudo-lateral {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 footer {
     width: 890px;
